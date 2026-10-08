@@ -1,0 +1,6 @@
+def weahter_condition():
+    print("the weather is in:" , winter)
+    print("the weather is in:" , summmer)
+winter="it cold in canada very "
+summmer=winter
+weahter_condition()
